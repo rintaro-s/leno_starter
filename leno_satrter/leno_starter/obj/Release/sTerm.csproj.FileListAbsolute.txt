@@ -1,0 +1,10 @@
+C:\Users\Kazuo\source\repos\sTerm\sTerm\bin\Release\sTerm.exe.config
+C:\Users\Kazuo\source\repos\sTerm\sTerm\bin\Release\sTerm.exe
+C:\Users\Kazuo\source\repos\sTerm\sTerm\bin\Release\sTerm.pdb
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.csprojAssemblyReference.cache
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.Form1.resources
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.Properties.Resources.resources
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.csproj.GenerateResource.cache
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.csproj.CoreCompileInputs.cache
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.exe
+C:\Users\Kazuo\source\repos\sTerm\sTerm\obj\Release\sTerm.pdb

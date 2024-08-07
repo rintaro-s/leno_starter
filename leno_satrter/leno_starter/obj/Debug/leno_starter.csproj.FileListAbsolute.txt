@@ -1,0 +1,10 @@
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\bin\Debug\leno_starter.exe.config
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\bin\Debug\leno_starter.exe
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\bin\Debug\leno_starter.pdb
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.csproj.AssemblyReference.cache
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.Form1.resources
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.Properties.Resources.resources
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.csproj.GenerateResource.cache
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.csproj.CoreCompileInputs.cache
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.exe
+C:\Users\s-rin\Downloads\leno_satrter\leno_satrter\leno_starter\obj\Debug\leno_starter.pdb
